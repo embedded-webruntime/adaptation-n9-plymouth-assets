@@ -1,0 +1,21 @@
+Name: ce-backgrounds
+Summary: OpenShellfish backgrounds
+Version: 0.3
+Release: 1
+Group: Applications/Multimedia
+License: LGPLv2
+Sources:
+    - splash-osf-800x480.png
+    - shutdown-osf-800x480.png
+Description: |
+    The %{name} package contains artwork for OpenShellfish.
+
+Provides:
+    # This is here because plymouth-lite requires it.
+    - openshellfish-backgroundss
+Obsoletes:
+    - generic-backgrounds
+NoSetup: yes
+Configure: none
+Builder: none
+BuildArch: noarch

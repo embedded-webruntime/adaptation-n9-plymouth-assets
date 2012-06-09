@@ -1,0 +1,11 @@
+* Sat Nov 19 2011 David Greaves <david@dgreaves.com> - 0.3
+- Use Nemo splash screens
+
+* Sat Sep 24 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.2
+- Added splash screen for 1.3
+
+* Thu Sep 22 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.1
+- Added links for reboot,poweroff and halt screen.
+
+* Wed Jun 15 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.1
+- Initial version of ce-backgrounds package
